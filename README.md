@@ -1,10 +1,11 @@
 <img src="./94a40a6ff54112b8126dedd369c2a40c.jpg" width="100%" alt="Banner">
 
 <p align="center">
-<a href="mailto:pinheiro.lilia11@aluno.ifce.edu.br" target="_blank">
-    <img src="338 Sem Título_20260908173216.png>" alt="Gmail">
+  <a href="mailto:pinheiro.lilia11@aluno.ifce.edu.br">
+    <img src="./338 Sem Título_20260908173216.png" width="120" alt="Gmail">
   </a>
 </p>
+
 <!--
 **LilisMP/LilisMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
