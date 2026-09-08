@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="./94a40a6ff54112b8126dedd369c2a40c.jpg" width="100%" alt="Banner">
 <!--
 **LilisMP/LilisMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
