@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:pinheiro.lilia11@aluno.ifce.edu.br">
-    <img src="./338 Sem Título_20260908173216.png" width="120" alt="Gmail">
+    <img src="./338 Sem Título_20260908174029.png" width="120" alt="Gmail">
   </a>
 </p>
 
