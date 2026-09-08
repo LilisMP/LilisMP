@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="mailto:liliapinheiro50@gmail.com">
-    <img src="https://shields.io" alt="Gmail">
+    <img src="./7f4dea0a7ef4cfd34e25f4c19afa45bd.jpg" width="120" alt="Gmail">
   </a>
 </p>
+
 
 
 <!--
