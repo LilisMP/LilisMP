@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="mailto:liliapinheiro50@gmail.com"><img src="https://shields.io" alt="Gmail"></a>
-</p>
-
+  
 <!--
 **LilisMP/LilisMP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
