@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:liliapinheiro50@gmail.com">
-    <img src="./7f4dea0a7ef4cfd34e25f4c19afa45bd.jpg" width="50" alt="Gmail">
+    <img src="./.." width="50" alt="Gmail">
   </a>
 </p>
 
