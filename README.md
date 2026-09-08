@@ -1,8 +1,8 @@
 <img src="./94a40a6ff54112b8126dedd369c2a40c.jpg" width="100%" alt="Banner">
 
 <p align="center">
-<a href="mailto:liliapinheiro50@gmail.com" target="_blank">
-    <img src="https://shields.io<Gmail>-<D14836>-<D14836>?<style=for-the-badge&logo=gmail&logoColor=white>" alt="Gmail">
+<a href="mailto:pinheiro.lilia11@aluno.ifce.edu.br" target="_blank">
+    <img src="338 Sem Título_20260908173216.png>" alt="Gmail">
   </a>
 </p>
 <!--
