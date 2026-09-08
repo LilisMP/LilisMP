@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="mailto:liliapinheiro50@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail">
+    <img src="https://shields.io<Gmail>-<D14836>-<D14836>?<style=for-the-badge&logo=gmail&logoColor=white>" alt="Gmail">
   </a>
 </p>
 <!--
