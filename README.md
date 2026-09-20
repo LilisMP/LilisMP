@@ -1,11 +1,10 @@
+#
 # <img src="./94a40a6ff54112b8126dedd369c2a40c.jpg" width="100%" alt="Banner">
 
 
 
 <p align="center">
-  <a href="mailto:pinheiro.lilia11@aluno.ifce.edu.br">
-    <img src="./" width="120" alt="Gmail">
-  </a>
+   <a href="liliapinheiro50@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red"></a> &nbsp;
 </p>
 
 <!--
