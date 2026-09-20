@@ -5,7 +5,7 @@
   _- depois, abri o mar com as mãos,
   para o meu sonho naufragar_
 
-<h2 align="center"> Olá, me chamo Lilia!
+<h2 align="center"> <i>Olá, me chamo Lilia!<i>
 
 >          
 
