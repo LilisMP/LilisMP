@@ -1,7 +1,13 @@
 #
 # <img src="./94a40a6ff54112b8126dedd369c2a40c.jpg" width="100%" alt="Banner">
+> _Pus o meu sonho num navio_ 
+  _e o navio em cima do mar;_
+  _- depois, abri o mar com as mãos,
+  para o meu sonho naufragar_
 
+<h2 align="center"> Olá, me chamo Lilia!
 
+>          
 
 <p align="center">
    <a href="mailto:liliapinheiro50@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=A70005"></a> &nbsp;
