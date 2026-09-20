@@ -1,4 +1,6 @@
-<img src="./94a40a6ff54112b8126dedd369c2a40c.jpg" width="100%" alt="Banner">
+# <img src="./94a40a6ff54112b8126dedd369c2a40c.jpg" width="100%" alt="Banner">
+
+
 
 <p align="center">
   <a href="mailto:pinheiro.lilia11@aluno.ifce.edu.br">
