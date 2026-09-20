@@ -5,6 +5,7 @@
 
 <p align="center">
    <a href="liliapinheiro50@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red"></a> &nbsp;
+   <a href="https://lattes.cnpq.br/6343903720996087"><img src="https://img.shields.io/badge/Lattes-black?style=for-the-badge&logo=lattes&logoColor=red"></a> &nbsp;
 </p>
 
 <!--
