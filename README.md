@@ -4,6 +4,7 @@
   _e o navio em cima do mar;_
   _- depois, abri o mar com as mãos,
   para o meu sonho naufragar_
+> <p align="right"> —Cecília Meireles </p>
 
 <h2 align="center"> <i>Olá, me chamo Lilia!<i>
 
