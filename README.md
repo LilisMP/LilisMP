@@ -1,9 +1,9 @@
 #
 # <img src="./94a40a6ff54112b8126dedd369c2a40c.jpg" width="100%" alt="Banner">
-> _Pus o meu sonho num navio_ 
+> _“Pus o meu sonho num navio_ 
   _e o navio em cima do mar;_
   _- depois, abri o mar com as mãos,
-  para o meu sonho naufragar_
+  para o meu sonho naufragar”_
 > <p align="right"> —Cecília Meireles </p>
 
 <h2 align="center"> <i>Olá, me chamo Lilia!<i>
